@@ -1,5 +1,5 @@
 # Paaji-Studios-
 Music Player front end project for coding ninjas course . (Front End Development)
 
-Front End Project -
+Link -
 https://aadesh098.github.io/Paaji-Studios-/
